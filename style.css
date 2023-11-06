@@ -1,0 +1,249 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Roboto&display=swap');
+
+* {
+    margin: 0.125em;
+    padding: 0.125em;
+    background-color: #100F0F;
+    font-family: 'Bebas Neue', sans-serif;
+}
+
+
+header {
+    display: flex;
+    justify-content: flex-start;
+    font-size: 5vw;
+    align-items: center;
+    color: #FECD07;
+    margin: 0;
+    padding: 0;
+}
+header img {
+    width: 14%;
+}
+
+.nav  {
+    list-style-type: none;
+    display: flex;
+    font-size: 3vw;
+    max-width: 100%;
+    white-space: nowrap;
+    overflow-x: scroll;
+    margin-top: .5em;
+    
+}
+
+.nav li {
+    display: inline;
+    margin-right: 2%;
+    font-family: 'Roboto', sans-serif;
+    font-width: light;
+    margin-bottom: .8rem;
+    
+}
+
+.card-sec {
+    background-color: #FECD07;
+    padding: .1em;
+    border-radius: 1.2em;
+}
+
+.texto-sec {
+    font-size: 5vw;
+    color: #FECD07;
+    width: 40%;
+    height: 15%;
+    border-radius: .5em;
+    letter-spacing: .3em;
+    display: flex;
+    align-items: center;
+    
+}
+
+.pal {
+    background-image: url('./assets/panelinhas.png');
+    background-size: cover;
+}
+
+.por {
+    background-image: url('./assets/porcoes.png');
+    background-size: cover;
+}
+
+.pet {
+    background-image: url('./assets/petiscos.png');
+    background-size: cover;
+}
+
+.fei {
+    background-image: url('./assets/feijoada.png');
+    background-size: cover;
+    font-size: 3vw;    
+}
+
+.sem {
+    background-image: url('./assets/semalcool.png');
+    background-size: cover;
+    font-size: 3vw;
+    height: 2em; 
+}
+
+.com {
+    background-image: url('./assets/comalcool.png');
+    background-size: cover;
+    font-size: 3vw; 
+    height: 2em; 
+}
+
+.dest {
+    background-image: url('./assets/whisky.png');
+    background-size: cover;
+}
+
+.lan {
+    background-image: url('./assets/lanches.png');
+    background-size: cover;
+}
+
+.sobre {
+    background-image: url('./assets/sobremesas.png');
+    background-size: cover;
+}
+
+.cig {
+    background-image: url('./assets/cigarros.png');
+    background-size: cover;    
+}
+
+.item-produto {
+    display: flex;
+    flex-direction: column;
+    color: #FFF;
+    padding: 0;
+    height: auto;
+    margin: 0;
+    border-bottom: solid 0.100rem #292929;
+    
+}
+
+.inativo {
+    color: #404040;
+    text-decoration: line-through;
+    
+}
+
+.item-produto .prod {
+    font-size: 4vw;
+    letter-spacing: .3em;    
+}
+ .item-produto .preco {
+    font-family: 'Roboto', sans-serif;
+    font-size: 3vw;  
+    background-color: #FFF;
+    color: #000;    
+    width: 17vw;
+    height: 5vw;
+    border-radius: .5em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: .5em;
+    padding: .3em;
+    
+    
+ }
+
+
+ .item-produto .descrip {
+    font-family: 'Roboto', sans-serif;
+    font-size: 2.5vw;
+    font-style: italic;
+    letter-spacing: .2em;
+    margin-bottom: .8em;
+ }
+
+ .box-produtos {
+    display: flex;
+    flex-direction: column;
+    margin-top: -.5rem;
+ }
+ 
+ .sub-secao {
+    font-size: 3vw;
+    color: #FECD07;
+    letter-spacing: .2em;
+ }
+
+ a {
+    color: #100F0F;    
+    text-decoration: none;
+    background-color: transparent;
+    font-size: 1.2em;
+ }
+
+ .empresa {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 0;
+    margin: 0;
+    
+ }
+
+
+ .empresa span {
+    color: #FFF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: .2em;
+    font-family: 'Roboto', sans-serif;
+    background-color: #404040;
+    padding: .25em;
+    border-radius: 1em;
+    text-align: center;
+    margin-top: -1em;
+    width: 20em;
+    letter-spacing: .3em;  
+ }
+
+ .rodape {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 1vw;
+ }
+
+ .ads {
+    color: #FFF;
+    font-family: 'Roboto', sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: 1vw;   
+
+ }
+
+ .ads span {
+    letter-spacing: .5em;  
+ }
+
+ .devs {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+ }
+
+ .devs img {
+    width: 8%;   
+ }
+
+ .devs a {
+    color: #404040;
+    font-family: 'Roboto', sans-serif;
+    margin-left: 1em;
+    
+ }
+
+
+

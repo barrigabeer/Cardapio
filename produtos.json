@@ -1,0 +1,771 @@
+{
+    "PANELINHAS": [
+        {
+            "produto": "CAMARÃO",
+            "preço": 90.00,
+            "descrição": "",
+            "ativo": true
+        },
+        {
+            "produto": "CARNE SECA",
+            "preço": 80.00,
+            "descrição": "",
+            "ativo": true
+        },
+        {
+            "produto": "MISTA",
+            "preço": 85.00,
+            "descrição": "Linguiça, Toscana e Carne Seca",
+            "ativo": true
+        },
+        {
+            "produto": "PARAENSE",
+            "preço": 100.00,
+            "descrição": "Camarão, Tucupi e Jambu",
+            "ativo": true
+        },
+        {
+            "produto": "PANELADA",
+            "preço": 10.00,
+            "descrição": "",
+            "ativo": true
+        }
+
+    ],
+    "PORÇÕES": [
+        {
+            "produto": "DEGUSTE",
+            "preço": 80.00,
+            "descrição": "Picanhaa, Camarão, Iscas de Peixe, Filé de Frango",
+            "ativo": true
+        },
+        {
+            "produto": "TABUA DE FRIOS",
+            "preço": 50.00,
+            "descrição": "Presunto, Queijo, Palmito, Azeitona e Ovo de Codorna",
+            "ativo": true
+        },
+        {
+            "produto": "CARNE DE SOL TRADICIONAL ACEBOLADA",
+            "preço": 55.00,
+            "descrição": "Com Macaxeira",
+            "ativo": true
+        },
+        {
+            "produto": "FILÉ A PALITO ACEBOLADO",
+            "preço": 60.00,
+            "descrição": "Azeitona, Queijo e Pimenta Biquinho",
+            "ativo": true
+        },
+        {
+            "produto": "CALABRESA ACEBOLADA",
+            "preço": 30.00,
+            "descrição": "",
+            "ativo": true
+        },
+        {
+            "produto": "PORÇÃO DE BATATAS TRADICIONAL",
+            "preço": 25.00,
+            "descrição": "",
+            "ativo": true            
+        },
+        {
+            "produto": "BATATA FRITA COM CHEEDAR E BACON",
+            "preço": 35.00,
+            "descrição": "",
+            "ativo": true
+        },
+        {
+            "produto": "PICANHA A PALITO COM MACAXEIRA",
+            "preço": 60.00,
+            "descrição": "",
+            "ativo": true
+        },
+        {
+            "produto": "FRANGO A PASSARINHO AO MOLHO COM BATATAS",
+            "preço": 45.00,
+            "descrição": "",
+            "ativo": true
+        },
+        {
+            "produto": "PICANHA A PALITO GOIANA",
+            "preço": 70.00,
+            "descrição": "Queijo, Pimenta Biquinho, Cebola e Macaxeira",
+            "ativo": true
+        },
+        {
+            "produto": "CAMARÃO AO ALHO E ÓLEO",
+            "preço": 100.00,
+            "descrição": "",
+            "ativo": true
+        },
+        {
+            "produto": "ISCAS DE PIRARUCU",
+            "preço": 70.00,
+            "descrição": "Empanado com Farinha Panko",
+            "ativo": true
+        },
+        {
+            "produto": "PANQUECA",
+            "preço": 15.00,
+            "descrição": "Carne ou Frango",
+            "ativo": true
+        },
+        {
+            "produto": "PANQUECA COM ARROZ",
+            "preço": 20.00,
+            "descrição": "Carne ou Frango",
+            "ativo": true
+        },
+        {
+            "produto": "COSTELINHA DE PORCO A PASSARINHO",
+            "preço": 0.00,
+            "descrição": "",
+            "ativo": true
+        },
+        {
+            "produto": "CALDO",
+            "preço": 15.00,
+            "descrição": "Carne ou Frango",
+            "ativo": true
+        }
+    ],
+    "PETISCOS": [
+        {
+            "produto": "BOLINHO DE CARNEIRO",
+            "preço": 48.00,
+            "descrição": "",
+            "ativo": true
+        },
+        {
+            "produto": "TORRESMO DE PURURUCA 100g",
+            "preço": 20.00,
+            "descrição": "",
+            "ativo": true
+        },
+        {
+            "produto": "UNHA DE CARANGUEIJO 12und",
+            "preço": 50.00,
+            "descrição": "",
+            "ativo": true
+        },
+        {
+            "produto": "BOLINHO DE CAMARÃO COM QUEIJO CREMOSO 12und",
+            "preço": 50.00,
+            "descrição": "",
+            "ativo": true
+        },
+        {
+            "produto": "MANDIOQUINHA MINEIRA FRITA 500g",
+            "preço": 20.00,
+            "descrição": "",
+            "ativo": true
+        },
+        {
+            "produto": "QUIBE COM QUEIJO 15und",
+            "preço": 35.00,
+            "descrição": "",
+            "ativo": true
+        },
+        {
+            "produto": "ASA DE FRANGO DESOSSADA COM QUEIJO COALHO 8und",
+            "preço": 53.00,
+            "descrição": "",
+            "ativo": true
+        },
+        {
+            "produto": "COSTELINHA DE PORCA FRITA COM MACAXEIRA",
+            "preço": 50.00,
+            "descrição": "",
+            "ativo": true
+        }
+    ],
+    "FEIJOADA": [
+        {
+            "produto": "INDIVIDUAL",
+            "preço": 25.00,
+            "descrição": "",
+            "ativo": true
+        },
+        {
+            "produto": "CASAL",
+            "preço": 50.00,
+            "descrição": "",
+            "ativo": true
+        },
+        {
+            "produto": "FÁMILIA",
+            "preço": 80.00,
+            "descrição": "",
+            "ativo": true
+        }
+    ],
+    "BEBIDAS SEM ÁLCOOL": [
+        {
+            "produto": "COCA COLA 2 lts",
+            "preço": 13.00,
+            "descrição": "",
+            "ativo": true
+        },
+        {
+            "produto": "GUARANA 2 lts",
+            "preço": 12.00,
+            "descrição": "",
+            "ativo": true
+        },
+        {
+            "produto": "COCA COLA 1 lt",
+            "preço": 8.00,
+            "descrição": "",
+            "ativo": true
+        },
+        {
+            "produto": "COCA COLA GARRAFA 1 lt",
+            "preço": 11.00,
+            "descrição": "Retornavel",
+            "ativo": true
+        },
+        {
+            "produto": "ENGOV 250ml",
+            "preço": 13.00,
+            "descrição": "",
+            "ativo": true
+        },
+        {
+            "produto": "AGUA COM GÁS 500ml",
+            "preço": 4.00,
+            "descrição": "",
+            "ativo": true
+        },
+        {
+            "produto": "AGUA SEM GÁS 500ml",
+            "preço": 3.00,
+            "descrição": "",
+            "ativo": true
+        },
+        {
+            "produto": "AGUA 1,5L",
+            "preço": 5.00,
+            "descrição": "",
+            "ativo": true
+        },
+        {
+            "produto": "AGUA TÔNICA",
+            "preço": 5.00,
+            "descrição": "",
+            "ativo": true
+        },
+        {
+            "produto": "GUARANA LATA 350ml",
+            "preço": 5.00,
+            "descrição": "",
+            "ativo": true
+        },
+        {
+            "produto": "GUARANA 1 lt",
+            "preço": 8.00,
+            "descrição": "",
+            "ativo": true
+        },
+        {
+            "produto": "COCA COLA LATA 350ml",
+            "preço": 6.00,
+            "descrição": "",
+            "ativo": true
+        },
+        {
+            "produto": "PEPSI BLACK 350ml",
+            "preço": 5.00,
+            "descrição": "",
+            "ativo": true
+        },
+        {
+            "produto": "SPRITE LATA 350ml",
+            "preço": 4.00,
+            "descrição": "",
+            "ativo": true
+        },
+        {
+            "produto": "FANTA LATA 350ml",
+            "preço": 5.00,
+            "descrição": "Uva ou Laranja",
+            "ativo": true
+        },
+        {
+            "produto": "RED BULL LATA 250ml",
+            "preço": 12.00,
+            "descrição": "",
+            "ativo": true
+        },
+        {
+            "produto": "BRAHMA 0 355ml",
+            "preço": 10.00,
+            "descrição": "",
+            "ativo": true
+        },
+        {
+            "produto": "HEINEKEN 0 355ml",
+            "preço": 10.00,
+            "descrição": "",
+            "ativo": true
+        },
+        {
+            "produto": "BUDWEISER 0 330ml",
+            "preço": 10.00,
+            "descrição": "",
+            "ativo": true
+        },
+        {
+            "produto": "SCHWEPPES",
+            "preço": 5.00,
+            "descrição": "",
+            "ativo": true
+        },
+        {
+            "produto": "SUCOS",
+            "preço": 8.00,
+            "descrição": "Cajá, Maracujá, Acerola, Abacaxi e Goiaba",
+            "ativo": true
+        },
+        {
+            "produto": "H2OH",
+            "preço": 6.00,
+            "descrição": "",
+            "ativo": true
+        },
+        {
+            "produto": "GATORADE",
+            "preço": 8.00,
+            "descrição": "",
+            "ativo": true
+        }
+    ],
+    "BEBIDAS COM ÁLCOOL": {
+        "LATA": [
+            {
+                "produto": "BRAMA",
+                "preço": 4.00,
+                "descrição": "",
+                "ativo": true
+            },
+            {
+                "produto": "SKOL",
+                "preço": 4.00,
+                "descrição": "",
+                "ativo": true
+            },
+            {
+                "produto": "HEINEKEN",
+                "preço": 7.00,
+                "descrição": "",
+                "ativo": true
+            },
+            {
+                "produto": "BEATS SENSES",
+                "preço": 10.00,
+                "descrição": "",
+                "ativo": true
+            }
+        ],
+        "LONG": [
+            {
+                "produto": "SPATEN",
+                "preço": 10.00,
+                "descrição": "",
+                "ativo": true
+            },
+            {
+                "produto": "HEINEKEN",
+                "preço": 10.00,
+                "descrição": "",
+                "ativo": true
+            },
+            {
+                "produto": "HEINEKEN 250ml",
+                "preço": 9.00,
+                "descrição": "",
+                "ativo": true
+            },
+            {
+                "produto": "CORONA",
+                "preço": 12.00,
+                "descrição": "",
+                "ativo": true
+            },
+            {
+                "produto": "STELLA",
+                "preço": 10.00,
+                "descrição": "",
+                "ativo": true
+            },
+            {
+                "produto": "BUDWEISER",
+                "preço": 10.00,
+                "descrição": "",
+                "ativo": true
+            },
+            {
+                "produto": "ICE 51",
+                "preço": 8.00,
+                "descrição": "",
+                "ativo": true
+            },
+            {
+                "produto": "GT BEATS",
+                "preço": 15.00,
+                "descrição": "",
+                "ativo": true
+            },
+            {
+                "produto": "EISENBAHN",
+                "preço": 10.00,
+                "descrição": "",
+                "ativo": true
+            },
+            {
+                "produto": "KEEP COOLER",
+                "preço": 10.00,
+                "descrição": "",
+                "ativo": true
+            },
+            {
+                "produto": "SKOL 300ml",
+                "preço": 6.00,
+                "descrição": "",
+                "ativo": true
+            },
+            {
+                "produto": "BRAHMA 300ml",
+                "preço": 6.00,
+                "descrição": "",
+                "ativo": false
+            },
+            {
+                "produto": "ORIGINAL 300ml",
+                "preço": 8.00,
+                "descrição": "",
+                "ativo": true
+            }
+        ],
+        "GARRAFA": [
+            {
+                "produto": "SPATEN",
+                "preço": 14.00,
+                "descrição": "",
+                "ativo": true
+            },
+            {
+                "produto": "HEINEKEN",
+                "preço": 17.00,
+                "descrição": "",
+                "ativo": true
+            },
+            {
+                "produto": "STELLA",
+                "preço": 14.00,
+                "descrição": "",
+                "ativo": true
+            },
+            {
+                "produto": "BRAHMA DUPLO MALTE",
+                "preço": 12.00,
+                "descrição": "",
+                "ativo": true
+            },
+            {
+                "produto": "SKOL",
+                "preço": 10.00,
+                "descrição": "",
+                "ativo": true
+            },
+            {
+                "produto": "ORIGINAL",
+                "preço": 14.00,
+                "descrição": "",
+                "ativo": true
+            },
+            {
+                "produto": "BUDWEISER",
+                "preço": 12.00,
+                "descrição": "",
+                "ativo": true
+            },
+            {
+                "produto": "BRAHMA CHOPP",
+                "preço": 11.00,
+                "descrição": "",
+                "ativo": true
+            },
+            {
+                "produto": "AMSTEL",
+                "preço": 10.00,
+                "descrição": "",
+                "ativo": true
+            }
+        ]
+    },
+    "LANCHES": [
+        {
+            "produto": "ESPECIAL DE CAMARÃO COM JAMBU",
+            "preço": 15.00,
+            "descrição": "",
+            "ativo": true
+        },
+        {
+            "produto": "EMPADA DE FRANGO",
+            "preço": 8.00,
+            "descrição": "",
+            "ativo": true
+        },
+        {
+            "produto": "EMPADA DE FRANGO CATUPIRY",
+            "preço": 8.00,
+            "descrição": "",
+            "ativo": true
+        },
+        {
+            "produto": "EMPADA DE CARNE SECA",
+            "preço": 10.00,
+            "descrição": "",
+            "ativo": true
+        },
+        {
+            "produto": "AMERICANO PRESUNTO E QUEIJO",
+            "preço": 6.00,
+            "descrição": "",
+            "ativo": true
+        },
+        {
+            "produto": "COSTELA DE ADÃO",
+            "preço": 14.00,
+            "descrição": "",
+            "ativo": true
+        },
+        {
+            "produto": "COXINHA DE FRANGO CATUPIRY",
+            "preço": 6.00,
+            "descrição": "",
+            "ativo": true
+        },
+        {
+            "produto": "EMPADÃO GOIANO DE FRANGO",
+            "preço": 12.00,
+            "descrição": "",
+            "ativo": true
+        },
+        {
+            "produto": "ESFIRRA DE CARNE",
+            "preço": 7.00,
+            "descrição": "",
+            "ativo": true
+        },
+        {
+            "produto": "ESFIRRA DE FRANGO",
+            "preço": 6.00,
+            "descrição": "",
+            "ativo": true
+        },
+        {
+            "produto": "KIBE DE CARNE",
+            "preço": 7.00,
+            "descrição": "",
+            "ativo": true
+        },
+        {
+            "produto": "TRANÇADO DE FRANGO",
+            "preço": 13.00,
+            "descrição": "",
+            "ativo": true
+        }
+
+    ],
+    "SOBREMESAS": [
+        {
+            "produto": "MINI PUDIM",
+            "preço": 10.00,
+            "descrição": "",
+            "ativo": true
+        },
+        {
+            "produto": "TORTA DE LIMÃO",
+            "preço": 13.00,
+            "descrição": "",
+            "ativo": false
+        },
+        {
+            "produto": "MOUSSE DE CHOCOLATE",
+            "preço": 15.00,
+            "descrição": "",
+            "ativo": true
+        }
+    ],
+    "CIGARROS": [
+        {
+            "produto": "ROTHMANS",
+            "preço": 10.00,
+            "descrição": "",
+            "ativo": true
+        },
+        {
+            "produto": "DUNHILL EVOQUE ESSENCE",
+            "preço": 15.00,
+            "descrição": "",
+            "ativo": true
+        },
+        {
+            "produto": "DUNHILL",
+            "preço": 15.00,
+            "descrição": "",
+            "ativo": true
+        },
+        {
+            "produto": "LUCKY STRIKE",
+            "preço": 15.00,
+            "descrição": "",
+            "ativo": true
+        },
+        {
+            "produto": "MARLBORO RED SELECTION",
+            "preço": 15.00,
+            "descrição": "",
+            "ativo": true
+        },
+        {
+            "produto": "MARLBORO TROPICAL FUSION",
+            "preço": 15.00,
+            "descrição": "",
+            "ativo": true
+        }
+    ],
+    "DESTILADOS": {
+        "WHISKY": [
+            {
+                "produto": "JOHNNIE WALKER RED LABEL 1lt",
+                "preço": 160.00,
+                "descrição": "Dose = R$12,00",
+                "ativo": true
+            },
+            {
+                "produto": "JOHNNIE WALKER BLACK LABEL 1lt",
+                "preço": 250.00,
+                "descrição": "Dose = R$25,00",
+                "ativo": true
+            },
+            {
+                "produto": "JOHNNIE WALKER GOLD LABEL 750ml",
+                "preço": 400.00,
+                "descrição": "",
+                "ativo": true
+            },
+            {
+                "produto": "CHIVAS 12 ANOS 1lt",
+                "preço": 300.00,
+                "descrição": "Dose = R$0,00",
+                "ativo": true
+            },
+            {
+                "produto": "OLD PARR 12 ANOS 1lt",
+                "preço": 250.00,
+                "descrição": "Dose = R$20,00",
+                "ativo": true
+            },
+            {
+                "produto": "BALLANTAINE'S FINEST 1lt",
+                "preço": 150.00,
+                "descrição": "",
+                "ativo": true
+            },
+            {
+                "produto": "BALLANTAINE'S 12 ANOS 750ml",
+                "preço": 230.00,
+                "descrição": "",
+                "ativo": true
+            },
+            {
+                "produto": "BUCHANAN'S 12 ANOS",
+                "preço": 0.00,
+                "descrição": "",
+                "ativo": true
+            },
+            {
+                "produto": "JACK DANIELS",
+                "preço": 0.00,
+                "descrição": "",
+                "ativo": true
+            }
+        ],
+        "VODKA": [ 
+            {
+                "produto": "ABSOLUT",
+                "preço": 150.00,
+                "descrição": "Dose = R$12,00",
+                "ativo": true
+            },
+            {
+                "produto": "CIROC",
+                "preço": 200.00,
+                "descrição": "",
+                "ativo": true
+            },
+            {
+                "produto": "CIROC RED BERRY",
+                "preço": 220.00,
+                "descrição": "",
+                "ativo": true
+            },
+            {
+                "produto": "SKYY",
+                "preço": 0.00,
+                "descrição": "",
+                "ativo": true
+            }
+        ],
+        "GIN": [
+            {
+                "produto": "TANQUERAY LONDON",
+                "preço": 200.00,
+                "descrição": "Dose = R$12,00",
+                "ativo": true
+            },
+            {
+                "produto": "GORDON'S DRY 750ml",
+                "preço": 160.00,
+                "descrição": "",
+                "ativo": true
+            },
+            {
+                "produto": "GORDON'S PINK",
+                "preço": 80.00,
+                "descrição": "",
+                "ativo": true
+            },
+            {
+                "produto": "GORDON'S SICILIAN LEMOM",
+                "preço": 60.00,
+                "descrição": "",
+                "ativo": true
+            },
+            {
+                "produto": "TROPICAL",
+                "preço": 30.00,
+                "descrição": "",
+                "ativo": true
+            }
+        ],
+        "TEQUILA": [
+            {
+                "produto": "TEQUILA JOSÉ CUERVO",
+                "preço": 12.00,
+                "descrição": "Dose",
+                "ativo": true
+            },
+            {
+                "produto": "CAMPARI",
+                "preço": 10.00,
+                "descrição": "Dose",
+                "ativo": true
+            }
+        ]
+    }
+    
+}

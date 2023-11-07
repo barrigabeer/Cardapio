@@ -18,6 +18,7 @@ document.addEventListener('DOMContentLoaded', function() {
   const ginContainer = document.getElementById('gin');
   const tequilaContainer = document.getElementById('tequila');
   const cigarrosContainer = document.getElementById('cigarros');
+  const galinhaContainer = document.getElementById('galinha');
 
 
   // Função para exibir os produtos da seção "PANELINHAS" na página
@@ -65,6 +66,17 @@ document.addEventListener('DOMContentLoaded', function() {
             </div>
         `;
         feijoadaContainer.appendChild(produtoElement);
+    });
+    produtos.GALINHA.forEach(produto => {
+        const produtoElement = document.createElement('section');
+        produtoElement.innerHTML = `
+            <div class="item-produto ${produto.ativo ? '' : 'inativo'}">
+              <h1 class="prod">${produto.produto}</h1>
+              <strong class="preco">R$ ${produto.preço.toFixed(2)}</strong>
+              <span class="descrip">${produto.descrição}</span>
+            </div>
+        `;
+        galinhaContainer.appendChild(produtoElement);
     });
     produtos['BEBIDAS SEM ÁLCOOL'].forEach(produto => {
         const produtoElement = document.createElement('section');

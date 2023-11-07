@@ -80,6 +80,13 @@ header img {
     font-size: 3vw;    
 }
 
+.gal {
+    background-image: url('./assets/galinha.png');
+    background-size: cover;
+    font-size: 3vw;
+    height: 2em; 
+}
+
 .sem {
     background-image: url('./assets/semalcool.png');
     background-size: cover;
@@ -196,14 +203,14 @@ header img {
     display: flex;
     justify-content: center;
     align-items: center;
-    font-size: .2em;
+    font-size: .18em;
     font-family: 'Roboto', sans-serif;
     background-color: #404040;
     padding: .25em;
     border-radius: 1em;
     text-align: center;
     margin-top: -1em;
-    width: 20em;
+    width: 21em;
     letter-spacing: .3em;  
  }
 
@@ -212,6 +219,8 @@ header img {
     justify-content: space-between;
     align-items: center;
     font-size: 1vw;
+    background-color: #363636;
+    
  }
 
  .ads {
@@ -220,28 +229,41 @@ header img {
     display: flex;
     flex-direction: column;
     align-items: center;
-    font-size: 1vw;   
+    justify-content: space-around;
+    font-size: 1vw; 
+    height: 9em; 
+    background-color: #363636;
+    border-radius: 2em 2em 0 0;
+
+    
 
  }
 
  .ads span {
-    letter-spacing: .5em;  
+    letter-spacing: .5em;
+    color: #FECD07;
+    background-color: #363636;  
  }
 
  .devs {
     display: flex;
     align-items: center;
     justify-content: center;
+    background-color: #363636;
+    
  }
 
  .devs img {
-    width: 8%;   
+    width: 8%;
+    background-color: #363636;
+       
  }
 
  .devs a {
-    color: #404040;
+    color: #FFF;
     font-family: 'Roboto', sans-serif;
     margin-left: 1em;
+    background-color: #363636;
     
  }
 

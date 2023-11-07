@@ -4,7 +4,8 @@
             "produto": "CAMARÃO",
             "preço": 90.00,
             "descrição": "",
-            "ativo": true
+            "ativo": true        
+            
         },
         {
             "produto": "CARNE SECA",
@@ -82,7 +83,7 @@
             "ativo": true
         },
         {
-            "produto": "FRANGO A PASSARINHO AO MOLHO COM BATATAS",
+            "produto": "FRANGO A PASSARINHO AO ALHO COM BATATAS",
             "preço": 45.00,
             "descrição": "",
             "ativo": true
@@ -200,6 +201,20 @@
             "ativo": true
         }
     ],
+    "GALINHA" : [
+        {
+            "produto": "INDIVIDUAL",
+            "preço": 30.00,
+            "descrição": "",
+            "ativo": false
+        },
+        {
+            "produto": "CASAL",
+            "preço": 60.00,
+            "descrição": "",
+            "ativo": false
+        }
+    ],
     "BEBIDAS SEM ÁLCOOL": [
         {
             "produto": "COCA COLA 2 lts",
@@ -232,25 +247,25 @@
             "ativo": true
         },
         {
-            "produto": "AGUA COM GÁS 500ml",
+            "produto": "ÁGUA COM GÁS 500ml",
             "preço": 4.00,
             "descrição": "",
             "ativo": true
         },
         {
-            "produto": "AGUA SEM GÁS 500ml",
+            "produto": "ÁGUA SEM GÁS 500ml",
             "preço": 3.00,
             "descrição": "",
             "ativo": true
         },
         {
-            "produto": "AGUA 1,5L",
+            "produto": "ÁGUA 1,5L",
             "preço": 5.00,
             "descrição": "",
             "ativo": true
         },
         {
-            "produto": "AGUA TÔNICA",
+            "produto": "ÁGUA TÔNICA",
             "preço": 5.00,
             "descrição": "",
             "ativo": true
@@ -298,13 +313,19 @@
             "ativo": true
         },
         {
+            "produto": "MONSTER ENERGY 473ml",
+            "preço": 12.00,
+            "descrição": "",
+            "ativo": true
+        },
+        {
             "produto": "BRAHMA 0 355ml",
             "preço": 10.00,
             "descrição": "",
             "ativo": true
         },
         {
-            "produto": "HEINEKEN 0 355ml",
+            "produto": "HEINEKEN 0 330ml",
             "preço": 10.00,
             "descrição": "",
             "ativo": true
@@ -343,7 +364,7 @@
     "BEBIDAS COM ÁLCOOL": {
         "LATA": [
             {
-                "produto": "BRAMA",
+                "produto": "BRAHMA",
                 "preço": 4.00,
                 "descrição": "",
                 "ativo": true
@@ -375,7 +396,7 @@
                 "ativo": true
             },
             {
-                "produto": "HEINEKEN",
+                "produto": "HEINEKEN 330ml",
                 "preço": 10.00,
                 "descrição": "",
                 "ativo": true
@@ -660,7 +681,7 @@
             {
                 "produto": "CHIVAS 12 ANOS 1lt",
                 "preço": 300.00,
-                "descrição": "Dose = R$0,00",
+                "descrição": "Dose = R$30,00",
                 "ativo": true
             },
             {
@@ -683,14 +704,14 @@
             },
             {
                 "produto": "BUCHANAN'S 12 ANOS",
-                "preço": 0.00,
+                "preço": 300.00,
                 "descrição": "",
                 "ativo": true
             },
             {
-                "produto": "JACK DANIELS",
-                "preço": 0.00,
-                "descrição": "",
+                "produto": "JACK DANIELS 1lt",
+                "preço": 250.00,
+                "descrição": "Dose = R$25,00",
                 "ativo": true
             }
         ],
@@ -728,6 +749,12 @@
                 "ativo": true
             },
             {
+                "produto": "TANQUERAY ROYALE",
+                "preço": 200.00,
+                "descrição": "Dose = R$12,00",
+                "ativo": true
+            },
+            {
                 "produto": "GORDON'S DRY 750ml",
                 "preço": 160.00,
                 "descrição": "",
@@ -742,12 +769,6 @@
             {
                 "produto": "GORDON'S SICILIAN LEMOM",
                 "preço": 60.00,
-                "descrição": "",
-                "ativo": true
-            },
-            {
-                "produto": "TROPICAL",
-                "preço": 30.00,
                 "descrição": "",
                 "ativo": true
             }
@@ -767,5 +788,4 @@
             }
         ]
     }
-    
 }

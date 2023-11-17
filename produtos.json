@@ -27,7 +27,7 @@
         },
         {
             "produto": "PANELADA",
-            "preço": 10.00,
+            "preço": 20.00,
             "descrição": "",
             "ativo": false
         }
@@ -37,7 +37,7 @@
         {
             "produto": "DEGUSTE",
             "preço": 80.00,
-            "descrição": "Picanhaa, Camarão, Iscas de Peixe, Filé de Frango",
+            "descrição": "Picanha, Camarão empanado, Iscas de Peixe, isca de Frango",
             "ativo": false
         },
         {
@@ -55,7 +55,7 @@
         {
             "produto": "FILÉ A PALITO ACEBOLADO",
             "preço": 60.00,
-            "descrição": "Azeitona, Queijo e Pimenta Biquinho",
+            "descrição": "Azeitona, Queijo, macaxeira e Pimenta Biquinho",
             "ativo": true
         },
         {
@@ -74,7 +74,7 @@
             "produto": "BATATA FRITA COM CHEEDAR E BACON",
             "preço": 35.00,
             "descrição": "",
-            "ativo": true
+            "ativo": false
         },
         {
             "produto": "PICANHA A PALITO COM MACAXEIRA",
@@ -119,8 +119,8 @@
             "ativo": true
         },
         {
-            "produto": "COSTELINHA DE PORCO A PASSARINHO",
-            "preço": 0.00,
+            "produto": "COSTELINHA DE PORCO FRITA COM MACAXEIRA",
+            "preço": 50.00,
             "descrição": "",
             "ativo": true
         },

@@ -29,7 +29,7 @@
             "produto": "PANELADA",
             "preço": 10.00,
             "descrição": "",
-            "ativo": true
+            "ativo": false
         }
 
     ],
@@ -38,7 +38,7 @@
             "produto": "DEGUSTE",
             "preço": 80.00,
             "descrição": "Picanhaa, Camarão, Iscas de Peixe, Filé de Frango",
-            "ativo": true
+            "ativo": false
         },
         {
             "produto": "TABUA DE FRIOS",

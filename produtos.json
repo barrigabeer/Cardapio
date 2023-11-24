@@ -29,7 +29,7 @@
             "produto": "PANELADA",
             "preço": 20.00,
             "descrição": "",
-            "ativo": false
+            "ativo": true
         }
 
     ],

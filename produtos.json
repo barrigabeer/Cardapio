@@ -38,7 +38,7 @@
             "produto": "DEGUSTE",
             "preço": 80.00,
             "descrição": "Picanha, Camarão empanado, Iscas de Peixe, isca de Frango",
-            "ativo": false
+            "ativo": true
         },
         {
             "produto": "TABUA DE FRIOS",

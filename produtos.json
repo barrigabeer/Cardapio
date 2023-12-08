@@ -160,7 +160,7 @@
             "produto": "MANDIOQUINHA MINEIRA FRITA 500g",
             "preço": 20.00,
             "descrição": "",
-            "ativo": false
+            "ativo": true
         },
         {
             "produto": "QUIBE COM QUEIJO 15und",

@@ -62,7 +62,7 @@
             "produto": "CALABRESA ACEBOLADA",
             "preço": 30.00,
             "descrição": "",
-            "ativo": true
+            "ativo": false
         },
         {
             "produto": "PORÇÃO DE BATATAS TRADICIONAL",

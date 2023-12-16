@@ -80,7 +80,7 @@
             "produto": "PICANHA A PALITO COM MACAXEIRA",
             "preço": 60.00,
             "descrição": "",
-            "ativo": true
+            "ativo": false
         },
         {
             "produto": "FRANGO A PASSARINHO AO ALHO COM BATATAS",
@@ -92,7 +92,7 @@
             "produto": "PICANHA A PALITO GOIANA",
             "preço": 70.00,
             "descrição": "Queijo, Pimenta Biquinho, Cebola e Macaxeira",
-            "ativo": true
+            "ativo": false
         },
         {
             "produto": "CAMARÃO AO ALHO E ÓLEO",

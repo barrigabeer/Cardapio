@@ -154,7 +154,7 @@
             "produto": "BOLINHO DE CAMARÃO COM QUEIJO CREMOSO 12und",
             "preço": 50.00,
             "descrição": "",
-            "ativo": true
+            "ativo": false
         },
         {
             "produto": "MANDIOQUINHA MINEIRA FRITA 500g",

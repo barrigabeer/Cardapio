@@ -62,7 +62,7 @@
             "produto": "CALABRESA ACEBOLADA",
             "preço": 30.00,
             "descrição": "",
-            "ativo": false
+            "ativo": true
         },
         {
             "produto": "PORÇÃO DE BATATAS TRADICIONAL",
@@ -80,7 +80,7 @@
             "produto": "PICANHA A PALITO COM MACAXEIRA",
             "preço": 60.00,
             "descrição": "",
-            "ativo": false
+            "ativo": true
         },
         {
             "produto": "FRANGO A PASSARINHO AO ALHO COM BATATAS",

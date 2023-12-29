@@ -104,7 +104,7 @@
             "produto": "ISCAS DE PIRARUCU",
             "preço": 70.00,
             "descrição": "Empanado com Farinha Panko",
-            "ativo": true
+            "ativo": false
         },
         {
             "produto": "PANQUECA",

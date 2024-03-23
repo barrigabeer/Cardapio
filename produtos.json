@@ -92,7 +92,7 @@
             "produto": "PICANHA A PALITO GOIANA",
             "preço": 70.00,
             "descrição": "Queijo, Pimenta Biquinho, Cebola e Macaxeira",
-            "ativo": false
+            "ativo": true
         },
         {
             "produto": "CAMARÃO AO ALHO E ÓLEO",
@@ -122,7 +122,7 @@
             "produto": "COSTELINHA DE PORCO FRITA COM MACAXEIRA",
             "preço": 50.00,
             "descrição": "",
-            "ativo": false
+            "ativo": true
         },
         {
             "produto": "CALDO",
@@ -154,7 +154,7 @@
             "produto": "BOLINHO DE CAMARÃO COM QUEIJO CREMOSO 12und",
             "preço": 50.00,
             "descrição": "",
-            "ativo": false
+            "ativo": true
         },
         {
             "produto": "MANDIOQUINHA MINEIRA FRITA 500g",

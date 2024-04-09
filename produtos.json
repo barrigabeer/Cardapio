@@ -104,7 +104,7 @@
             "produto": "ISCAS DE PIRARUCU",
             "preço": 70.00,
             "descrição": "Empanado com Farinha Panko",
-            "ativo": true
+            "ativo": false
         },
         {
             "produto": "PANQUECA",
@@ -148,7 +148,7 @@
             "produto": "UNHA DE CARANGUEIJO 12und",
             "preço": 50.00,
             "descrição": "",
-            "ativo": false
+            "ativo": true
         },
         {
             "produto": "BOLINHO DE CAMARÃO COM QUEIJO CREMOSO 12und",

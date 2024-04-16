@@ -178,19 +178,19 @@
     "FEIJOADA": [
         {
             "produto": "INDIVIDUAL",
-            "preço": 25.00,
+            "preço": 30.00,
             "descrição": "",
             "ativo": true
         },
         {
             "produto": "CASAL",
-            "preço": 50.00,
+            "preço": 60.00,
             "descrição": "",
             "ativo": true
         },
         {
             "produto": "FÁMILIA",
-            "preço": 80.00,
+            "preço": 100.00,
             "descrição": "",
             "ativo": true
         }

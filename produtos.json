@@ -657,13 +657,13 @@
             {
                 "produto": "JOHNNIE WALKER RED LABEL 1lt",
                 "preço": 160.00,
-                "descrição": "Dose = R$12,00",
+                "descrição": "Dose = R$15,00",
                 "ativo": true
             },
             {
                 "produto": "JOHNNIE WALKER BLACK LABEL 1lt",
                 "preço": 250.00,
-                "descrição": "Dose = R$25,00",
+                "descrição": "Dose = R$20,00",
                 "ativo": true
             },
             {

@@ -266,7 +266,7 @@
         },
         {
             "produto": "GUARANA LATA 350ml",
-            "preço": 5.00,
+            "preço": 6.00,
             "descrição": "",
             "ativo": true
         },
@@ -377,7 +377,7 @@
             },
             {
                 "produto": "BEATS SENSES",
-                "preço": 10.00,
+                "preço": 12.00,
                 "descrição": "",
                 "ativo": true
             }
@@ -477,7 +477,7 @@
             },
             {
                 "produto": "STELLA",
-                "preço": 14.00,
+                "preço": 15.00,
                 "descrição": "",
                 "ativo": true
             },
@@ -489,13 +489,13 @@
             },
             {
                 "produto": "SKOL",
-                "preço": 10.00,
+                "preço": 11.00,
                 "descrição": "",
                 "ativo": true
             },
             {
                 "produto": "ORIGINAL",
-                "preço": 14.00,
+                "preço": 15.00,
                 "descrição": "",
                 "ativo": true
             },
@@ -507,7 +507,7 @@
             },
             {
                 "produto": "BRAHMA CHOPP",
-                "preço": 11.00,
+                "preço": 12.00,
                 "descrição": "",
                 "ativo": true
             },
@@ -588,7 +588,7 @@
         },
         {
             "produto": "TRANÇADO DE FRANGO",
-            "preço": 13.00,
+            "preço": 14.00,
             "descrição": "",
             "ativo": true
         }
@@ -623,7 +623,7 @@
         },
         {
             "produto": "DUNHILL EVOQUE ESSENCE",
-            "preço": 15.00,
+            "preço": 18.00,
             "descrição": "",
             "ativo": true
         },
@@ -635,7 +635,7 @@
         },
         {
             "produto": "LUCKY STRIKE",
-            "preço": 15.00,
+            "preço": 18.00,
             "descrição": "",
             "ativo": true
         },

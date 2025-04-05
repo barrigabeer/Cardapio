@@ -27,7 +27,7 @@
         },
         {
             "produto": "PANELADA",
-            "preço": 20.00,
+            "preço": 30.00,
             "descrição": "",
             "ativo": true
         }
@@ -198,13 +198,13 @@
     "GALINHA" : [
         {
             "produto": "INDIVIDUAL",
-            "preço": 30.00,
+            "preço": 40.00,
             "descrição": "",
             "ativo": false
         },
         {
             "produto": "CASAL",
-            "preço": 60.00,
+            "preço": 80.00,
             "descrição": "",
             "ativo": false
         }
@@ -359,13 +359,13 @@
         "LATA": [
             {
                 "produto": "BRAHMA",
-                "preço": 4.00,
+                "preço": 5.00,
                 "descrição": "",
                 "ativo": true
             },
             {
                 "produto": "SKOL",
-                "preço": 4.00,
+                "preço": 5.00,
                 "descrição": "",
                 "ativo": true
             },
@@ -377,7 +377,7 @@
             },
             {
                 "produto": "BEATS SENSES",
-                "preço": 12.00,
+                "preço": 15.00,
                 "descrição": "",
                 "ativo": true
             }
@@ -387,7 +387,7 @@
                 "produto": "SPATEN",
                 "preço": 10.00,
                 "descrição": "",
-                "ativo": true
+                "ativo": false
             },
             {
                 "produto": "HEINEKEN 330ml",
@@ -417,7 +417,7 @@
                 "produto": "BUDWEISER",
                 "preço": 10.00,
                 "descrição": "",
-                "ativo": true
+                "ativo": false
             },
             {
                 "produto": "ICE 51",
@@ -435,7 +435,7 @@
                 "produto": "EISENBAHN",
                 "preço": 10.00,
                 "descrição": "",
-                "ativo": true
+                "ativo": false
             },
             {
                 "produto": "KEEP COOLER",
@@ -467,7 +467,7 @@
                 "produto": "SPATEN",
                 "preço": 14.00,
                 "descrição": "",
-                "ativo": true
+                "ativo": false
             },
             {
                 "produto": "HEINEKEN",

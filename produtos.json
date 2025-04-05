@@ -471,31 +471,31 @@
             },
             {
                 "produto": "HEINEKEN",
-                "preço": 17.00,
+                "preço": 18.00,
                 "descrição": "",
                 "ativo": true
             },
             {
                 "produto": "STELLA",
-                "preço": 15.00,
+                "preço": 17.00,
                 "descrição": "",
                 "ativo": true
             },
             {
                 "produto": "BRAHMA DUPLO MALTE",
-                "preço": 12.00,
+                "preço": 13.00,
                 "descrição": "",
                 "ativo": true
             },
             {
                 "produto": "SKOL",
-                "preço": 11.00,
+                "preço": 12.00,
                 "descrição": "",
                 "ativo": true
             },
             {
                 "produto": "ORIGINAL",
-                "preço": 15.00,
+                "preço": 16.00,
                 "descrição": "",
                 "ativo": true
             },
@@ -507,13 +507,13 @@
             },
             {
                 "produto": "BRAHMA CHOPP",
-                "preço": 12.00,
+                "preço": 13.00,
                 "descrição": "",
                 "ativo": true
             },
             {
                 "produto": "AMSTEL",
-                "preço": 10.00,
+                "preço": 12.00,
                 "descrição": "",
                 "ativo": true
             }

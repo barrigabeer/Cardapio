@@ -328,7 +328,7 @@
             "produto": "BUDWEISER 0 330ml",
             "preço": 10.00,
             "descrição": "",
-            "ativo": true
+            "ativo": false
         },
         {
             "produto": "SCHWEPPES",
@@ -338,13 +338,13 @@
         },
         {
             "produto": "SUCOS",
-            "preço": 8.00,
+            "preço": 10.00,
             "descrição": "Cajá, Maracujá, Acerola, Abacaxi e Goiaba",
             "ativo": true
         },
         {
             "produto": "H2OH",
-            "preço": 6.00,
+            "preço": 7.00,
             "descrição": "",
             "ativo": true
         },
